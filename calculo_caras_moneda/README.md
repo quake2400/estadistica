@@ -1,3 +1,26 @@
+# Probabilidad de obtener caras en lanzamientos de monedas
+
+Este script en Python calcula la probabilidad de obtener un número específico de caras en una serie de lanzamientos de monedas.
+
+## Cómo ejecutar el script
+
+1. Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [python.org](https://www.python.org/).
+
+2. Clona este repositorio en tu máquina local o descarga el archivo `app.py`.
+
+3. Abre una terminal o un símbolo del sistema y navega al directorio donde se encuentra el archivo `app.py`.
+
+4. Ejecuta el siguiente comando para ejecutar el script:
+
+
+5. Sigue las instrucciones en pantalla para ingresar el número de lanzamientos de monedas y la probabilidad de obtener cara en un solo lanzamiento.
+
+## Ejemplo
+
+Supongamos que queremos calcular la probabilidad de obtener exactamente 12 caras en 20 lanzamientos de monedas, con una probabilidad de cara de 0.6.
+
+1. Ejecutamos el script `app.py`:
+
 
 El script calculará la probabilidad y mostrará el resultado en porcentaje.
 
